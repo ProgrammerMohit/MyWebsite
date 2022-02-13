@@ -6,7 +6,7 @@ import Contact from './components/contact/Contact'
 // import Toggle from './components/toggle/Toggle';
 // import { useContext } from 'react';
 // import { ThemeContext } from './context';
-
+import Bar from './components/skills/Skill';
 const App = () =>{
   // const theme = useContext(ThemeContext);
   // const darkMode = theme.state.darkMode;
@@ -15,6 +15,7 @@ const App = () =>{
     <Intro/>
     <About/>
     <ProductList/>
+    <Bar/>
     <Contact/>
   </div>
 }

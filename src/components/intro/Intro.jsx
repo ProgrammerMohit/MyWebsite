@@ -21,6 +21,9 @@ export const Intro = () => {
                        I am currently doing my B.E from University Institute Of Technology in
                        Information Technology. 
                     </div>
+                    <a href="resume.pdf" download="resume.pdf">
+                        <button className='resumebtn'>Get Resume</button>
+                    </a>
                 </div>
             </div>
             <div className="i-right">

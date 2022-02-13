@@ -1,0 +1,294 @@
+.s{
+    position: relative;
+    bottom: 50px;
+}
+.line{
+    position: relative;
+    font-size: larger;
+    font-weight: bolder;
+    border: 3px solid royalblue;
+    width: 500px;
+    top: 55px;
+    background-color: royalblue;
+    border-radius: 12px;
+    height: 2px;
+    left: 32%;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.skillscontainer{
+    width: 500px;
+    height: 320px;
+    /* border: 1.5px solid black; */
+    position: relative;
+    border-radius: 20px;
+    background-color: royalblue;
+    left: 40px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    top: 180px;
+    margin: 12px 12px;
+    padding-left: 12px;
+    margin-bottom: 100px;
+}
+.h1{
+    position: relative;
+    left: 19%;
+    top: 170px;
+    font-size: 20px;
+    font-family: 'Comfortaa', cursive;
+}
+.l1{
+    position: relative;
+    border: 2px solid rgb(172,229,238);
+    width: 100px;
+    z-index: 10;
+    height: 13px;
+    left: 120px;
+    top: 51px;
+    border-radius: 20px;
+    background-color: rgb(172,229,238);
+}
+.b1{
+    position: relative;
+    border: 2px solid rgb(16, 50, 151);
+    width: 300px;
+    height: 13px;
+    left: 120px;
+    top: 10px;
+    border-radius: 20px;
+    background-color: rgb(16, 50, 151);
+}
+.b2{
+    position: relative;
+    border: 2px solid rgb(16, 50, 151);
+    width: 300px;
+    height: 14px;
+    left: 120px;
+    top: 15px;
+    border-radius: 20px;
+    background-color: rgb(16, 50, 151);
+}
+.l2{
+    position: relative;
+    border: 2px solid rgb(172,229,238);
+    width: 180px;
+    height: 14px;
+    z-index: 10;
+    left: 120px;
+    top: 57px;
+    border-radius: 20px;
+    background-color: rgb(172,229,238);
+}
+.b3{
+    position: relative;
+    border: 2px solid rgb(16, 50, 151);
+    width: 300px;
+    height: 14px;
+    left: 120px;
+    top: 20px;
+    border-radius: 20px;
+    background-color: rgb(16, 50, 151);
+}
+
+/* rgb(172,229,238) */
+.l3{
+    position: relative;
+    border: 2px solid rgb(172,229,238);
+    width: 80px;
+    height: 15px;
+    left: 120px;
+    top: 63px;
+    border-radius: 20px;
+    z-index: 10;
+    background-color: rgb(172,229,238);
+}
+.b4{
+    position: relative;
+    border: 2px solid rgb(16, 50, 151);
+    width: 300px;
+    height: 14px;
+    left: 120px;
+    top: 23px;
+    border-radius: 20px;
+    background-color: rgb(16, 50, 151);
+}
+.l4{
+    position: relative;
+    border: 2px solid rgb(172,229,238);
+    width: 230px;
+    height: 14px;
+    left: 120px;
+    top: 65px;
+    z-index: 10;
+    border-radius: 20px;
+    background-color: rgb(172,229,238);
+}
+.html{
+    position:relative;
+    top: 32px;
+    left: 20px;
+    font-size: 14px;
+    color: whitesmoke;
+}
+.css{
+    position: relative;
+    top: 35px;
+    left: 20px;
+    color: whitesmoke;
+    font-size: 14px;
+}
+.js{
+    position: relative;
+    top: 40px;
+    left: 20px;
+    font-size: 14px;
+    color: whitesmoke;
+}
+.react{
+   position: relative; 
+   top: 45px;
+   left: 20px;
+   font-size: 14px;
+   color: whitesmoke;
+}
+.skillscontainer:hover{
+    cursor: pointer;
+    transition: 0.75s ease-in-out;
+    background-color: rgb(72, 112, 235);
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+.roundContainer{
+    width: 450px;
+    height: 280px;
+    /* border: 3px solid black; */
+    position: relative;
+    left: 700px;
+    bottom: 270px;
+    border-radius: 23px;
+    /* margin: 12px 12px; */
+    margin-bottom: 12px;
+    background-color: royalblue;
+    padding: 20px 18px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.h2{
+    position: relative;
+    font-size: 22px;
+    left:865px;
+    bottom: 280px;
+}
+.r1{
+    position: relative;
+    width: 120px;
+    height: 120px;
+    background-color:darkblue;
+    left: 60px;
+    top: 50px;
+    border-radius: 100%;
+}
+.r2{
+    position: relative;
+    width: 120px;
+    height: 120px;
+    background-color:darkblue;
+    left: 255px;
+    bottom: 210px;
+    border-radius: 100%;
+}
+.node{
+    position: relative;
+    left: 85px;
+    bottom: 30px;
+    color: white;
+
+}
+.email{
+    position: relative;
+    left: 285px;
+    bottom: 300px;
+    color: white;
+}
+.r1circle{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border: 10px solid rgb(172,229,238);
+    border-radius: 100%;
+    bottom: 70px;
+    left: 60px;
+    border-left-color: darkblue;
+}
+.r2circle{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border: 10px solid rgb(172,229,238);
+    border-radius: 100%;
+    bottom: 330px;
+    left: 255px;
+    border-left-color: darkblue;
+    border-bottom-color: darkblue;
+    border-right-color: darkblue;
+}
+.roundContainer:hover{
+    cursor: pointer;
+    transition: 0.75s ease-in-out;
+    background-color: rgb(72, 112, 235);
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+.text{
+    position: relative;
+    left: 35px;
+    bottom: 80px;
+    font-style: italic;
+    font-size: 18px;
+    font-family: 'Comfortaa', cursive;
+    /* font-family: 'Quintessential', cursive; */
+}
+.last{
+    position: relative;
+    left: 60px;
+    font-family: 'Comfortaa', cursive;
+/* font-family: 'Quintessential', cursive; */
+}
+.n1{
+    position: relative;
+    z-index: 10;
+    top:50px;
+    left: 43px;
+    color: white;
+    font-weight: 500;
+}
+.n2{
+    position: relative;
+    color: white;
+    z-index: 10;
+    top: 50px;
+    left: 45px;
+    font-weight: 500;
+}
+.m1{
+    position: relative;
+    left: 320px;
+    color: white;
+    bottom: 5px;
+    font-size: 15px;
+}
+.m2{
+    position: relative;
+    left: 320px;
+    color: white;
+    bottom: 5px;font-size: 15px;
+}
+.m3{
+    position: relative;
+    left: 320px;
+    color: white;
+    bottom: 5px;font-size: 15px;
+}
+.m4{
+    position: relative;
+    left: 320px;
+    color: white;
+    bottom: 5px;font-size: 15px;
+}
