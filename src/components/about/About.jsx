@@ -1,10 +1,10 @@
 import "./about.css"
-import Pic from "../../img/profile.jpg"
+import Pic from "../../img/main.jpg"
 const About = () => {
     return (
         <div className="a">
             <div className="a-left">
-                <div className="a-card bg"></div>
+                {/* <div className="a-card bg"></div> */}
                 <div className="a-card">
                     <img src={Pic} alt="" className="a-img" />
                 </div>
