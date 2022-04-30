@@ -8,7 +8,7 @@ export const Intro = () => {
             <div className="i-left">
                 <div className="i-left-wrapper">
                     <h2 className='i-intro'>Hello, My name is</h2>
-                    <h1 className='i-name'>Rohit</h1>
+                    <h1 className='i-name'>kamlesh</h1>
                     <div className="i-title">
                         <div className="i-title-wrapper">
                             <div className="i-title-item">Web Enthusiast</div>
